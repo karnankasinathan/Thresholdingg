@@ -30,8 +30,8 @@ Use Otsu's method to segment the image and display the results.
 
 ### Program
 ```
-Developed By : DARIO G
-Register Number : 212222230027
+Developed By : Karnan K
+Register Number : 212222230062
 ```
 
 ### Load the necessary packages:
